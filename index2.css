@@ -12,11 +12,16 @@ li{
     float: right;
 display: inline;
 }
+.nav li img{
+    height: 2em;
+    width: 2em;
+}
 .nav li{
     float: right;
     padding: 40px;
     display: inline;
     margin: 20px;
+
 .first_section .advert{
     display: inline block;
     float: right;
