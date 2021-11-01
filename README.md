@@ -1,8 +1,8 @@
-# first_ip
+# my_first_project
 # Buger palace website
-#### This is a e commerce sice for our bugger bussiness, 31 oct 2021
-#### By ** sylvestus sigei **
-## Description
+#### This is a e commerce sice for our bugger bussiness,1 oct 2021
+#### By felix kibet kurgat**
+##Description
 This is a e-commerce ui developed for a buger bussiness' consumption
 ## Setup/Installation Requirements
 This site is hosted in gh-pages on ..............url
@@ -13,11 +13,11 @@ This being a simple ui it has no known bugs though updates are always being made
 This site only uses html and css for implementation 
 ## Support and contact details
 Incase of any issues contact me on:
-sylvestus.sigei@student.moringa.com
+felix.kurgat@student.moringa.com
 ### License
 *MIT License
 
-Copyright (c) [2021] [sylvestus kiprotich sigei]
+Copyright (c) [2021] [felix kibet kurgat]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
