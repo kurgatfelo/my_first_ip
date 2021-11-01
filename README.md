@@ -1,11 +1,18 @@
-# my_first_project
-# Buger palace website
-#### This is a e commerce sice for our bugger bussiness,1 oct 2021
-#### By felix kibet kurgat**
+## my_first_project
+##Buger palace website
+## This is a e commerce sice for our bugger bussiness,1 oct 2021
+## By felix kibet kurgat**
 ##Description
-This is a e-commerce ui developed for a buger bussiness' consumption
+This is a e-commerce ui developed for a buger bussiness' consumption 
+It contains the services being offerred i;e
+	*The quality services being offered to the customers
+	*The prices of the items 
+	*Contact details incadse the customer wants to reach out
+## The aim of Burgers
+	*To advertise its products
+	*To reach the customers both physical and through social media
 ## Setup/Installation Requirements
-This site is hosted in gh-pages on ..............url
+This site is hosted in gh-pages 
 
 ## Known Bugs
 This being a simple ui it has no known bugs though updates are always being made as per user feedback to maximize on productivity
@@ -14,7 +21,7 @@ This site only uses html and css for implementation
 ## Support and contact details
 Incase of any issues contact me on:
 felix.kurgat@student.moringa.com
-### License
+## License
 *MIT License
 
 Copyright (c) [2021] [felix kibet kurgat]
