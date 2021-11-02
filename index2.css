@@ -32,6 +32,7 @@ display: inline;
 }
 .advert .pad{
     padding: 30px;
+
 }
 .advert #order{
     padding: 10px;
@@ -40,14 +41,24 @@ display: inline;
 
     width: 50px;
     height: 10px;
-    font-size: 8px;
+    
 }
+#order{
+
+    padding-right: 200px;
+    font-size: xx-small;
+    padding-right: 200px;
+    text-align: center;
+    margin: 80px;px;
+}
+
 .offered_services{
     background-color: rgb(251, 255, 255);
     display: flex;
    justify-content: space-evenly;
    padding: 50px;
-   padding-top: 2opx; 
+   padding-top: 40px; 
+   font-size: 12px;
 
 }
 .offered_services .menulist{
@@ -99,22 +110,44 @@ span{
     border-radius: 30px;
     overflow: hidden;
     padding: 50px;
+    font-size:12px ;
 }
 .menu li #font_size{
     font-size: x-small;}
     h4{
         font-size: xx-large;
     }
+    h3{
+        margin: 100px;
+    }
+    .Taste{
+        font-size:12px;
+        padding: 60px;
+        padding-top: 10px;}
+
+        #imageb{
+            padding:40px;
+            padding-bottom: 10px;
+            margin-right: 60px;
+            float: right;
+        }
+    }
     .mobile{
         background-color: rgb(253,190,0);
         width: 100%;
         height: auto;
-        float: right;
+        overflow: hidden;
+        display: flex;
+
+
+    }
+   
     }
     .mobile #google img{
         height: 4em;
         width: 18em;
         float: left;
+        display: flex;
         
 
 
@@ -123,16 +156,20 @@ span{
         height: 10em;
         width: 10em;
         float: right;
-     padding: 30px;
+     padding: 50px;
+     display: flex;
 
     }
-   /* .mobile #mobile_image img{
+   .mobile #mobile_image img{
     max-width: 10em;
     max-height: 10em;
         float: right;
         padding: 50px;
-    }*/
+    }
     .about{ background-color: #ffffff;
+        height: auto;
+        width: 100%;
+
     }
     .sitamp{ 
         display: flex;
@@ -142,15 +179,15 @@ span{
         background-color: #ffffff;
         height: auto;
         width: 100%;
-    }
-    .footer{
-        background-color:background-color: #ffffff;
-        display: flex;
         justify-content: space-evenly;
-    } 
+    }
+       #deep_footer{
+           display: flex;
+           justify-content: space-evenly;
+       }
     #deep_image{
         display: flex;
-        justify-content: space-evenly;
+     justify-content: center;
     } .footer footer_imge{
         height: 3em;
         width: 3em;
